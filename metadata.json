@@ -1,0 +1,7 @@
+{
+  "name": "AI Event Host Pro",
+  "description": "An autonomous AI Program Anchor that transforms event documents into structured hosting scripts and performs them with professional voices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
